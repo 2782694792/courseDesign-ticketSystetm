@@ -1,0 +1,6 @@
+*.class
+lib
+build
+.settings
+.log
+bin
